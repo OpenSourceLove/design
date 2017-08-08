@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "DDC41159-5811-4C31-9AF2-DB8EED28197F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 44,
+    "x": 108,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A85B530F-A968-4034-AC37-DCA5738D3721"
+    },
+    {
+      "class": "text",
+      "id": "2F07F2E0-5A1B-40F1-97E4-2925C8A8020A"
+    }
+  ],
+  "name": "buttons/standard/affix/success",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

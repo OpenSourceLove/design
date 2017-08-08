@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F9D821DF-18EF-480B-A238-89D285534CFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 1280,
+    "x": -490,
+    "y": -275
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FF55A553-9A9D-4EC1-9E31-F21493384814"
+    },
+    {
+      "class": "group",
+      "id": "A4F5DBEF-E189-4F17-AFAD-4BFA8E985ACC"
+    },
+    {
+      "class": "group",
+      "id": "20E581BD-E5F7-49FF-BF8F-092665FACCD0"
+    },
+    {
+      "class": "group",
+      "id": "7D614119-2460-490F-9BC8-BD28AD42A9A1"
+    },
+    {
+      "class": "group",
+      "id": "C775047E-A578-4E99-BF3E-9C1A8E467227"
+    },
+    {
+      "class": "group",
+      "id": "F821B3EF-911D-4573-B1E3-E20106E13CBE"
+    },
+    {
+      "class": "group",
+      "id": "DC85DBBD-9F88-49D6-B23A-BA068EC3AD4B"
+    },
+    {
+      "class": "text",
+      "id": "60F5B22C-62F6-4723-934F-8092E39B66DB"
+    },
+    {
+      "class": "text",
+      "id": "044E2562-4C80-4788-8053-3E2AC4035A44"
+    },
+    {
+      "class": "text",
+      "id": "8682D7D1-4A88-4A03-A6DC-3FC57BDF0676"
+    },
+    {
+      "class": "text",
+      "id": "E6CD11D2-CFA8-4894-9D44-9507E2186362"
+    },
+    {
+      "class": "text",
+      "id": "7412D620-C84D-4DA4-B5C3-C7D8D0EE0000"
+    },
+    {
+      "class": "text",
+      "id": "4F0D888F-7514-4413-91CA-134F58BD38BF"
+    },
+    {
+      "class": "text",
+      "id": "5E7D695A-F082-4E60-BB51-B69FA5C3D03B"
+    }
+  ],
+  "name": "Desktop",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiouNTg8REVGR0hMUFhbXmJjZVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QNwBTAG8AbQBlACAAYwBhAHIAZAAgAHQAZQB4AHQALgAgAFQAZQB4AHQAIABzAGgAbwB1AGwAZAAgAGIAZQAgAHQAcgB1AG4AYwBhAHQAZQBkACAAaQBuACAAdABoAGkAcwAgAGwAaQBuAGUAICAm0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZV05TQ29sb3JfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7UIyQlCiYnKClVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC45NDExMDY4MzUyIDAuOTUwMzg3OTY3NyAwLjk0NjQxMDMzOTUAEAGACYAL0isKLC1UTlNJRBABgArSLzAxMlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIzNFxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLzA2N1dOU0NvbG9yojY00go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKPUBDoj4/gA6AD6JBQoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAWE9wZW5TYW5z0i8wSUpfEBNOU011dGFibGVEaWN0aW9uYXJ5o0lLNFxOU0RpY3Rpb25hcnnSLzBNTl8QEE5TRm9udERlc2NyaXB0b3KiTzRfEBBOU0ZvbnREZXNjcmlwdG9y1FEKUlNUVVZWWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACAF4AVgBXSEgpZWqCAFtIvMFxdV05TQXJyYXmiXDTSLzBfYF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo19hNF8QEE5TUGFyYWdyYXBoU3R5bGUjP7mZmaAAAADSLzBLZKJLNNIvMGZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomg0XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAPYA/QEFARABFQEXARkBGwEdASIBJAEmASgBKgEsATQBVgFpAXABeQF/AYwBoQHLAc0BzwHRAdYB2wHdAd8B5AHvAfgCBQIIAhUCHgIjAisCLgIzAlACUgJUAlsCXgJgAmICZQJnAmkCawKBApcCoAKpAq4CxALIAtUC2gLtAvADAwMMAxcDJAMwAzIDNAM2AzgDPQM+A0ADRQNNA1ADVQNvA3MDhgOPA5QDlwOcA7EDtAPJA9sD3gPjAAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAA+U="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "35DBB25C-BC09-48B0-9CFB-43CCDB82D1DB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 208,
+    "x": 0,
+    "y": 46
+  },
+  "glyphBounds": "{{0, 0}, {407, 18}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "card_content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "24975C1B-CBC3-4D97-8911-FFC30F5A1EA3"
+  },
+  "textBehaviour": 1
+}

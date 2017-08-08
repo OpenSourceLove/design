@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5CTE9SVl1hZWhqVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADV0NPTlRBQ1TTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgBtfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQASM/4zMzQAAAANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1PcGVuU2Fucy1Cb2xk0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LVQ0QKRUZHSElKSlpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEAKAFoAUgBTSEgpNTqCAFdI4OVBRV05TQXJyYXmiUD3SODlTVF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1NVPV8QEE5TUGFyYWdyYXBoU3R5bGXUV1hZClolW1xVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODAzOTIxNTY5IDAuMjA3ODQzMTM3MyAwLjE5NjA3ODQzMTQAgBiAGtJeCl9gVE5TSUQQAYAZ0jg5YmNcTlNDb2xvclNwYWNlomQ9XE5TQ29sb3JTcGFjZdI4OWZnV05TQ29sb3KiZj3SODk8aaI8PdI4OWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom09XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFcAXQBkAG0AdACBAIMAhQCHAI8AlgCeAKkArwCxALMAtQC3ALkAvwDBAMMAxQDHAMkAywD2AP0BHwEyAToBPAFFAUoBZwFpAWsBcgF1AXcBeQF8AX4BgAGCAZgBrgG3AcUBygHVAd4B9AH4AgUCDgITAiYCKQI8AkcCUgJeAmsCdwJ5AnsCfQJ/AoEChgKHAokCjgKWApkCngK4ArwCzwLYAt4C6wMAAyoDLAMuAzMDOAM6AzwDQQNOA1EDXgNjA2sDbgNzA3YDewOQA5MDqAO6A70DwgAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAPE"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "10375E6B-C728-4533-8B94-9A769F0AC252",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 69,
+    "x": 0,
+    "y": 129
+  },
+  "glyphBounds": "{{0, 0}, {69, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "CONTACT",
+  "nameIsFixed": false,
+  "resizingConstraint": 35,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5287154D-0E77-44C4-AAAB-3DDE3B34F11D"
+  },
+  "textBehaviour": 0
+}
