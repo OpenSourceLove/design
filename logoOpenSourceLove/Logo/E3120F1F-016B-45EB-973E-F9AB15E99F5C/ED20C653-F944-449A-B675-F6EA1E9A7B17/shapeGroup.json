@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "58187357-0231-4DC4-94D4-06C9B5E748F0",
+  "do_objectID": "ED20C653-F944-449A-B675-F6EA1E9A7B17",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 59.09237292805972,
-    "width": 86.24399260144062,
-    "x": 15.29103290898104,
-    "y": 21.87462394737901
+    "height": 89.15774052403043,
+    "width": 89.3480622554002,
+    "x": 24.20000016689301,
+    "y": 28.37647075512831
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,22 +25,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
-      "id": "01BA8B94-2571-4989-8878-7D57A2C6EC66"
+      "id": "43BC725C-DE74-47DF-B344-952D1C70D3CE"
     },
     {
       "class": "shapePath",
-      "id": "83229A10-B514-4960-A720-8E52ED6F2AE5"
+      "id": "4DA062CC-B20B-47F9-A657-EE86E297855B"
     }
   ],
   "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 225,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

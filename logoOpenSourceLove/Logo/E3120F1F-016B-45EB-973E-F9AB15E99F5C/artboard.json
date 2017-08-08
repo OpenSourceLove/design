@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +34,7 @@
     "x": 1582,
     "y": 221
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,8 +51,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "D4A04839-01B1-4369-AAB8-517864E60A75"
+      "class": "shapeGroup",
+      "id": "EF14F50B-455F-4FB3-9930-0CDCAEAE7739"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58187357-0231-4DC4-94D4-06C9B5E748F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0AF7317-4F73-449F-B504-FBD61D470C05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED20C653-F944-449A-B675-F6EA1E9A7B17"
     },
     {
       "class": "shapeGroup",
