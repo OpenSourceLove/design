@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "EB5847E0-30B9-44C4-9582-BAF93938691C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 338,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "18208B01-98B9-40EA-BE73-49452A6ADBFD"
+    },
+    {
+      "class": "group",
+      "id": "92D0FFB8-C91A-4C98-A1F9-475BB2226146"
+    },
+    {
+      "class": "group",
+      "id": "E403972E-19A0-430E-B002-F95F184DD148"
+    },
+    {
+      "class": "group",
+      "id": "AF2E3B53-2688-49DE-AD9A-6C5B9C6FBE7B"
+    }
+  ],
+  "name": "tabs/primary/rounded",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

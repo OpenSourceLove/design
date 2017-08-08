@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "447882F7-4E90-43CD-8F45-124385F6DFEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C39BBB0C-2982-41AB-BCF2-8E860CF8BC4A"
+    },
+    {
+      "class": "text",
+      "id": "935242A9-005B-4A3B-98FA-998F1C22B86D"
+    },
+    {
+      "class": "text",
+      "id": "0C6DB071-6D3E-4353-A66C-20A149940BCB"
+    },
+    {
+      "class": "text",
+      "id": "02340CFD-87C1-4C95-B966-448DB74EC6DA"
+    }
+  ],
+  "name": "navigation/subnavigation/light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

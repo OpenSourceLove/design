@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NbX2NmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18Q8FRoaXMgaXMgc29tZSBtb2RhbCB0ZXh0LiBJdCB1c2VzIHRoZSBib2R5IHRleHQuIFRoaXMgaXMgc29tZSBtb2RhbCB0ZXh0LiBJdCB1c2VzIHRoZSBib2R5IHRleHQuIFRoaXMgaXMgc29tZSBtb2RhbCB0ZXh0LiBJdCB1c2VzIHRoZSBib2R5IHRleHQuCgpUaGlzIGlzIHNvbWUgbW9kYWwgdGV4dC4gSXQgdXNlcyB0aGUgYm9keSB0ZXh0LiBUaGlzIGlzIHNvbWUgbW9kYWwgdGV4dC4gSXQgdXNlcyB0aGUgYm9keSB0ZXh0LtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIz+5mZmgAAAA0gokJSZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKCsuoikqgAuADKIsLYANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAWE9wZW5TYW5z0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LWP0BBQgpDREVGRUhGWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAEiNANgAAAAAAAIASgBTSEgpKS6CAE9I0NU1OV05TQXJyYXmiTTnSNDVQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSOV8QEE5TUGFyYWdyYXBoU3R5bGXUVFVWCldYWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4zNjY3OTMyODg5IDAuMzg4MDIwODMzMyAwLjM3ODkyMzMxNDMAEAGAFoAY0lwKXV5UTlNJRBABgBfSNDVgYVxOU0NvbG9yU3BhY2WiYjlcTlNDb2xvclNwYWNl0jQ1ZGVXTlNDb2xvcqJkOdI0NThnojg50jQ1aWpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiazlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUBeAF/AYcBkgGXAZkBmwGdAZ8BpAGmAagBqgGsAa4BtQHXAeoB8gH7AgACHQIfAiECKAIrAi0CLwIyAjQCNgI4Ak4CZAJtAnYCewKGAo8CpQKpArYCvwLEAtcC2gLtAvoDBQMRAyMDMANCA0QDRgNPA1EDUwNYA1kDWwNgA2gDawNwA4oDjgOhA6oDsAO9A9ID/AP+BAAEAgQHBAwEDgQQBBUEIgQlBDIENwQ/BEIERwRKBE8EZARnBHwEjgSRBJYAAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAAEmA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "538565B2-7A5D-4859-984A-40393BFEFF09",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 132,
+    "width": 480,
+    "x": 16,
+    "y": 94
+  },
+  "glyphBounds": "{{0, 0}, {1039, 109}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "This is some modal t",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D994D2F1-5422-4E24-A002-1CEA8C369251"
+  },
+  "textBehaviour": 1
+}

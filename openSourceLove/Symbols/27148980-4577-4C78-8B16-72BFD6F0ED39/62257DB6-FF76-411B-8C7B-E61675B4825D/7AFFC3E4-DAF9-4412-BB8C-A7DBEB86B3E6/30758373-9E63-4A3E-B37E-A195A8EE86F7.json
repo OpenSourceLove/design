@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PktOUVVdYWVoalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1tUYWJsZSBSb3cgMdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIj2zMzPSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABYT3BlblNhbnPSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctcKP0BBQkNERUZHR0lJSlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAUgACAEoASI0A2AAAAAAAAEALSEgpMTaCAE9I0NU9QV05TQXJyYXmiTznSNDVSU18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1JUOV8QEE5TUGFyYWdyYXBoU3R5bGXUVldYCllaW1xVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODAzOTIxNTY5IDAuMjA3ODQzMTM3MyAwLjE5NjA3ODQzMTQAEAGAFoAY0l4KX2BUTlNJRBABgBfSNDViY1xOU0NvbG9yU3BhY2WiZDlcTlNDb2xvclNwYWNl0jQ1ZmdXTlNDb2xvcqJmOdI0NThpojg50jQ1a2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibTlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAkQCYAKAAqwCwALIAtAC2ALgAvQC/AMEAwwDFAMcAzgDwAQMBCwEQARUBMgE0ATYBPQFAAUIBRAFHAUkBSwFNAWMBeQGCAYsBkAGbAaQBugG+AcsB1AHZAewB7wICAhECHAIpAjUCRwJZAmUCZwJpAmsCbQJ2AngCfQJ+AoAChQKNApAClQKvArMCxgLPAtUC4gL3AyEDIwMlAycDLAMxAzMDNQM6A0cDSgNXA1wDZANnA2wDbwN0A4kDjAOhA7MDtgO7AAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAAA70="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "30758373-9E63-4A3E-B37E-A195A8EE86F7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 245,
+    "x": 0,
+    "y": 13
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Table Row 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B158BE4E-FD31-420D-A277-6B7743C20AB0"
+  },
+  "textBehaviour": 1
+}

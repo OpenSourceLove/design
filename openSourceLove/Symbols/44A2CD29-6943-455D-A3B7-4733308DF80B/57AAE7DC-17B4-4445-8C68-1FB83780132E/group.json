@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "57AAE7DC-17B4-4445-8C68-1FB83780132E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 185,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC0C51D8-BF88-40F7-879D-9C6CCC3766A0"
+    },
+    {
+      "class": "text",
+      "id": "BBD7F775-3ADC-4A51-B9CC-74FC416113D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B19660C-AB7D-4054-A2AF-0F8843749F53"
+    }
+  ],
+  "name": "forms/light/dropdown/filled",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
