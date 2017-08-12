@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 1280,
+    "height": 1081,
+    "width": 1969,
     "x": -490,
     "y": -275
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,6 +96,58 @@
     {
       "class": "text",
       "id": "5E7D695A-F082-4E60-BB51-B69FA5C3D03B"
+    },
+    {
+      "class": "text",
+      "id": "514F91D2-F43A-4B06-AD64-84FC7EF0381F"
+    },
+    {
+      "class": "text",
+      "id": "DAF9E38A-B260-4BF2-966E-11DA921B02BD"
+    },
+    {
+      "class": "text",
+      "id": "6EE9D04F-A616-4639-8922-C40548A65E0B"
+    },
+    {
+      "class": "group",
+      "id": "9D0B06D1-E843-498F-9E25-DB7FE4A5CE3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF6096A7-BE6D-48BD-8612-C70D87FEB7CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E808A822-29B7-4085-830D-E260837FD284"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95ADE6C3-8641-4A9F-BE29-A58A123BD9F9"
+    },
+    {
+      "class": "group",
+      "id": "A6DD403A-62FE-49C9-97BA-51F59CB14B61"
+    },
+    {
+      "class": "group",
+      "id": "DFF54B3F-9ABA-4B25-99B0-01CD40CBD863"
+    },
+    {
+      "class": "group",
+      "id": "D9F7A690-7E20-4901-AD91-2B4F12F11E18"
+    },
+    {
+      "class": "group",
+      "id": "9DC22CE1-8C58-49CE-8C56-E522165F00F6"
+    },
+    {
+      "class": "group",
+      "id": "7EEC55FD-4A40-407C-89B7-B20D28A47F5D"
+    },
+    {
+      "class": "group",
+      "id": "B2AD08E1-28C8-4C12-990E-FDE7D2614BE9"
     }
   ],
   "name": "Desktop",

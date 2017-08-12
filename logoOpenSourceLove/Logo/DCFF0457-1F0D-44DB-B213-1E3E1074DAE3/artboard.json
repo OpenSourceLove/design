@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DCFF0457-1F0D-44DB-B213-1E3E1074DAE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1229,
+    "width": 1076,
+    "x": 2449,
+    "y": 185
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B4D27A2C-100C-4DCD-A34E-46DA0A8711CA"
+    },
+    {
+      "class": "group",
+      "id": "289EFCEC-B54E-4196-8F9A-7BC42C5FB3EF"
+    },
+    {
+      "class": "group",
+      "id": "BA6E5915-D79E-479D-9AB0-ADF4AE3B7123"
+    },
+    {
+      "class": "group",
+      "id": "192F2BC2-D0F1-44B6-BED2-3FB8F708E8AB"
+    },
+    {
+      "class": "group",
+      "id": "A8A3384B-11EA-4D4D-9771-A3BD73454DAF"
+    },
+    {
+      "class": "group",
+      "id": "1627423C-BB2C-43B1-8EEF-A3B91587EC4D"
+    },
+    {
+      "class": "group",
+      "id": "4BD6B6ED-C476-4708-B984-6E5BE4CB0849"
+    },
+    {
+      "class": "group",
+      "id": "8FB483D2-009F-4074-B3B6-94D862E97E82"
+    },
+    {
+      "class": "group",
+      "id": "20A327BF-C198-4F52-B5B9-EA1AA4EA5874"
+    },
+    {
+      "class": "group",
+      "id": "5C86977F-973F-4949-B8B0-E19437984395"
+    },
+    {
+      "class": "group",
+      "id": "5031ACB7-3D99-4C6B-961F-792790A3CAAD"
+    },
+    {
+      "class": "group",
+      "id": "6BD2CC26-3666-44F6-B09B-9FB55C86B55B"
+    },
+    {
+      "class": "group",
+      "id": "ABCCA558-25BB-4741-93A0-63553E2B3D16"
+    },
+    {
+      "class": "text",
+      "id": "838F0165-427D-4253-ACFE-E92DFB211DB4"
+    },
+    {
+      "class": "text",
+      "id": "FE84DC76-76CB-46C4-B742-0E2249A3F6CF"
+    },
+    {
+      "class": "text",
+      "id": "CCD08F94-6259-46AA-8A90-EBD18E3EE2F1"
+    },
+    {
+      "class": "text",
+      "id": "088248B6-7C18-4846-8573-E7A81892358D"
+    },
+    {
+      "class": "text",
+      "id": "747933D2-C5E3-42BE-AFEA-A684664A0E75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E37E5300-6E92-47DC-8158-E0A6888DF680"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "047CB214-2A64-4623-9328-AB1E4EB1BB51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE35ED06-7551-40BE-8BCA-C0F0DD733560"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D76F645E-306D-44B2-8377-D21827769F85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D13D05C-81B0-429E-B07C-5F10F17EBB08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE123843-6F75-4CB3-BBEC-3A7955183227"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5ACC3FF8-A846-4546-8F2D-6B67785ACC1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D06C03B6-43DF-4339-81D9-BC9909AF2573"
+    }
+  ],
+  "name": "Open Source Love - Logo variations",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
